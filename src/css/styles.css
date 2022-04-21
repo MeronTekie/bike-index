@@ -1,3 +1,15 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(161, 202, 144);
+}
+h1 {
+  color: blue;
+  font-weight: bold;
+  font-family: cursive;
+  text-align: center;
+  text-decoration: underline;
+}
+#output {
+  font-size: 35px;
+  text-align: center;
+  color: blueviolet;
 }
